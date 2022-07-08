@@ -1,1 +1,1 @@
-# get-started-jetson-nano
+# Nvidia Jetson Nano Guidance
