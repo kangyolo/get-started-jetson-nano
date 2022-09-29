@@ -8,6 +8,12 @@ Jetson Nano is our toys in TBI lol :)). We will working with this little but pow
 
 *It's not easy and need hours just for installation. Make it fun!!!!!*
 ## Power Supply
+
+Power supply is one of the most important things when playing with Jetson. 
+
+Do not use 5V 2A power supply throught USB cable, it's suck. Use 5V 4A with jack cable. Read full article about power supply [here](https://jetsonhacks.com/2019/04/10/jetson-nano-use-more-power/)
+
+
 ## Installation
 ## Running YOLOv5
 
