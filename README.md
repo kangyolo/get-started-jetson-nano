@@ -13,8 +13,13 @@ Power supply is one of the most important things when playing with Jetson.
 
 Do not use 5V 2A power supply throught USB cable, it's suck. Use 5V 4A with jack cable. Read full article about power supply [here](https://jetsonhacks.com/2019/04/10/jetson-nano-use-more-power/)
 
+I bought power supply [here](https://shopee.co.id/Power-Supply-5V-4A-Applicable-for-Jetson-Nano-i.27499686.7677332255)
+
 
 ## Installation
+
+Jetson Nano required Jetpack running on Linux operating system.
+
 ## Running YOLOv5
 
 *Written by: Oki Aryawan*
