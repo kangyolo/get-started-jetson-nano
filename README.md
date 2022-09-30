@@ -18,7 +18,7 @@ I bought power supply [here](https://shopee.co.id/Power-Supply-5V-4A-Applicable-
 
 ## Installation
 
-Jetson Nano required Jetpack running on Linux operating system.
+Jetson Nano required Jetpack running on Linux operating system. Image file that needed to be flashed to the SD card. The official image that provided by Nvidia is not stable at all. There are multipe custom image files that provided by the comunity.
 
 ## Running YOLOv5
 
