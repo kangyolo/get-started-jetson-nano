@@ -20,8 +20,24 @@ I bought power supply [here](https://shopee.co.id/Power-Supply-5V-4A-Applicable-
 
 Jetson Nano required Jetpack running on Linux operating system. Image file that needed to be flashed to the SD card. The official image that provided by Nvidia is not stable at all. There are multipe custom image files that provided by the comunity. 
 
-[Here](https://github.com/Qengineering/Jetson-Nano-image) is image file that installed Linux Ubuntu 20.04. A Jetson Nano image with OpenCV, TensorFlow and Pytorch.
+[Here](https://github.com/Qengineering/Jetson-Nano-image) is image file that installed Linux Ubuntu 20.04. A Jetson Nano image with OpenCV, TensorFlow and Pytorch. With this image file, it is not necesary to set up the environment from the scratch.
+
+### Running JTOP
+JTOP stand for Jetson-Stat, it's a program to monitor Jetson Nano status
+
+just run this command on terminal:
+
+```
+jtop
+```
+
 
 ## Running YOLOv5
+
+Clone the official YOLOv5 repository with git
+
+```
+git clone https://github.com/ultralytics/yolov5.git
+```
 
 *Written by: Oki Aryawan*
