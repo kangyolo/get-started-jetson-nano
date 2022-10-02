@@ -15,6 +15,8 @@ Do not use 5V 2A power supply throught USB cable, it's suck. Use 5V 4A with jack
 
 I bought power supply [here](https://shopee.co.id/Power-Supply-5V-4A-Applicable-for-Jetson-Nano-i.27499686.7677332255)
 
+![power supply](/doc/psu.PNG)
+
 
 ## Installation
 
