@@ -33,7 +33,6 @@ just run this command on terminal:
 jtop
 ```
 
-
 ## Running YOLOv5
 
 Clone the official YOLOv5 repository with git
@@ -41,5 +40,7 @@ Clone the official YOLOv5 repository with git
 ```
 git clone https://github.com/ultralytics/yolov5.git
 ```
+
+Make sure the python3 and pip3 is python3.8 version. If it's not, you need to install it and set up the python3 variabel.
 
 *Written by: Oki Aryawan*
