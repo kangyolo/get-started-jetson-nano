@@ -2,11 +2,17 @@
 Jetson Nano is our toys in TBI lol :)). We will working with this little but powerfull machine. You can check detail of Jetson Nano [here](https://developer.download.nvidia.com/assets/embedded/secure/jetson/Nano/docs/JetsonNano_DataSheet_DS09366001v1.1.pdf?Z0rNAR7mzYEvRE7l18gq1b3B4LE7ah__hD-mlwNLIE6R_xaijBKvycjrEXB29A1K_2QLik0HuYLCpCXM6FOLG5LpxOW54rSjc1Moq3DoOcb9G6H2RTdUbxO8K1x3CZu6-tL44aW4Io4N36jTBh1kn1FX9jniA8CWWWfh-ZkOe5fQFKeduj4l3-qaLxCyNQ&t=eyJscyI6ImdzZW8iLCJsc2QiOiJodHRwczpcL1wvd3d3Lmdvb2dsZS5jb21cLyJ9). Jetson Nano commonly will work with deep learning algorithm, so we set it up OpenCV CUDA enabled. 
 
 ### Outline
+- Jetson Case
 - Power Supply
 - Installation
 - Running YOLOv5
 
 *It's not easy and need hours just for installation. Make it fun!!!!!*
+
+## Case and Fan
+
+Case is so important for Jetson Nano, it's prevent evil things happen to this litter machine. It also easier to carry the Jetson. I found a lot of 3d models for Jetson Nano. I selected one and printed it out. You can check it out in [3d folder]()
+
 ## Power Supply
 
 Power supply is one of the most important things when playing with Jetson. 
