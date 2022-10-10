@@ -11,7 +11,9 @@ Jetson Nano is our toys in TBI lol :)). We will working with this little but pow
 
 ## Case and Fan
 
-Case is so important for Jetson Nano, it's prevent evil things happen to this litter machine. It also easier to carry the Jetson. I found a lot of 3d models for Jetson Nano. I selected one and printed it out. You can check it out in [3d folder]()
+Case is so important for Jetson Nano, it's prevent evil things happen to this litter machine. It also easier to carry the Jetson. I found a lot of 3d models for Jetson Nano. I selected one and printed it out. You can check it out in [3d folder](https://github.com/kangyolo/get-started-jetson-nano/tree/main/3d)
+
+You also need a cooling fan to control the heat. I bought litte cooling fan for Jetson Nano [here](https://shopee.co.id/Dedicated-Cooling-Fan-for-Jetson-Nano-5V-3PIN-Reverse-proof-i.27499686.7977315796)
 
 ## Power Supply
 
