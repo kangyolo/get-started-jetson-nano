@@ -40,6 +40,10 @@ just run this command on terminal:
 ```
 jtop
 ```
+## Remote Connection
+[Read this article](https://raspberry-valley.azurewebsites.net/NVIDIA-Jetson-Nano/) and this [video](https://www.youtube.com/watch?v=7-WMvmWVxJQ)
+
+
 
 ## Running YOLOv5
 
