@@ -43,7 +43,13 @@ jtop
 ## Remote Connection
 [Read this article](https://raspberry-valley.azurewebsites.net/NVIDIA-Jetson-Nano/) and this [video](https://www.youtube.com/watch?v=7-WMvmWVxJQ)
 
+## Swap Memory
+The Jetson Nano by default has 2GB of swap memory. The swap memory allows for “extra memory” when there is memory pressure on main (physical) memory by swapping portions of memory to disk. Because the Jetson Nano has a relatively small amount of memory (4GB) this can be very useful, especially when, say, compiling large projects.
 
+Our main objective using Jetson Nano is for a deep learning project, the we will need a large memory.
+Read these articles for [Jetson Hack](https://jetsonhacks.com/2019/11/28/jetson-nano-even-more-swap/) 
+
+Currently I'm using 4 GB for memory swap
 
 ## Running YOLOv5
 
